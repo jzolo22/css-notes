@@ -3,15 +3,19 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: content-box;
+  height: 100%;
 }
 
 .main-content {
   width: 100%;
   background: red;
+  height: 100%;
+  background-image: url(freedom.jpg);
+  height: 528px;
 }
 
-.main-content > h1 {
-  margin: 0;
+section > h1 {
+  margin: 0px;
   padding: 0;
 }
 
