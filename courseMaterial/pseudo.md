@@ -3,6 +3,8 @@
 - allow us to define a style for a special state of an element
   - e.g. hover or active
   - syntax: `div:hover`
+- `:not`
+  - `a:not(.active)` --> select any anchor tags without the classname active
 
 ## Pseudo Elements
 
